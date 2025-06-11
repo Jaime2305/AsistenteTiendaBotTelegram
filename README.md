@@ -6,3 +6,8 @@ separar los "productos" mas especificamente en categorias para que en una lista 
 
 
 Para probarlo solo necesitan su token del API de telegram como de Gemini de la version gratuita de prueba (en el archivo "configuracion.py")
+
+ Clona el repositorio:
+```bash
+git clone https://github.com/Jaime2305/AsistenteTiendaBotTelegram.git
+cd AsistenteTiendaBotTelegram
