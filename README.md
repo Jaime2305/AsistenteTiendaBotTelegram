@@ -1,6 +1,6 @@
 Asistente de Tienda (solamente para consulta de existencia, precios o descripcion de productos)
 
-Este bot con ayuda del API de gemini 2.0-flash procesa con una multiples instrucciones (promts) procesar lo que el usuario quiere preguntar para dar una mejor respuesta
+Este bot con ayuda del API de gemini 2.0-flash procesa con multiples instrucciones (promts) lo que el usuario quiere preguntar para dar una mejor respuesta
 por el momento es algo basico porque faltaria seguridad contra ataques DOS o DDOS por si quisieran saturar de peticiones automatizadas, tambien aun falta 
 separar los "productos" mas especificamente en categorias para que en una lista muy grande no tenga que consultar con todos los productos sino una "pequeña" parte.
 
