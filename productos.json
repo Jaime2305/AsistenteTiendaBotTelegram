@@ -1,0 +1,111 @@
+[
+    {
+        "nombreProducto": "Laptop HP",
+        "descripcionProducto": "Laptop con 16GB RAM",
+        "precioProducto": 1200.0,
+        "empresaProducto": "HP",
+        "cantidadProducto": 10
+    },
+    {
+        "nombreProducto": "Laptop HP M",
+        "descripcionProducto": "Laptop con 16GB RAM",
+        "precioProducto": 1200.0,
+        "empresaProducto": "HP",
+        "cantidadProducto": 10
+    },
+    {
+        "nombreProducto": "Laptop HP 2",
+        "descripcionProducto": "Laptop con 16GB RAM",
+        "precioProducto": 1200.0,
+        "empresaProducto": "HP",
+        "cantidadProducto": 10
+    },
+    {
+        "nombreProducto": "Laptop HP 8",
+        "descripcionProducto": "Laptop con 16GB RAM",
+        "precioProducto": 1200.0,
+        "empresaProducto": "HP",
+        "cantidadProducto": 10
+    },
+    {
+        "nombreProducto": "Ordenador",
+        "descripcionProducto": "16GB RAM",
+        "precioProducto": 1100.0,
+        "empresaProducto": "Tinkpad",
+        "cantidadProducto": 10
+    }
+    ,
+    {
+        "nombreProducto": "Smartphone Galaxy X",
+        "descripcionProducto": "Teléfono Android con cámara de 64MP",
+        "precioProducto": 899.99,
+        "empresaProducto": "Samsung",
+        "cantidadProducto": 20
+    },
+    {
+        "nombreProducto": "Auriculares Bluetooth Z",
+        "descripcionProducto": "Auriculares con cancelación de ruido",
+        "precioProducto": 149.5,
+        "empresaProducto": "Sony",
+        "cantidadProducto": 50
+    },
+    {
+        "nombreProducto": "Monitor UltraWide 34”",
+        "descripcionProducto": "Pantalla curva 144Hz para gaming y diseño",
+        "precioProducto": 529.0,
+        "empresaProducto": "LG",
+        "cantidadProducto": 15
+    },
+    {
+        "nombreProducto": "Tablet iTab 10",
+        "descripcionProducto": "Tablet de 10 pulgadas con stylus incluido",
+        "precioProducto": 349.99,
+        "empresaProducto": "iTech",
+        "cantidadProducto": 30
+    },
+    {
+        "nombreProducto": "Impresora Multifunción Pro",
+        "descripcionProducto": "Impresora láser con WiFi y escáner",
+        "precioProducto": 199.0,
+        "empresaProducto": "Epson",
+        "cantidadProducto": 12
+    },
+    
+    {
+        "nombreProducto": "Teclado Mecánico RGB",
+        "descripcionProducto": "Teclado retroiluminado con switches rojos",
+        "precioProducto": 79.99,
+        "empresaProducto": "HyperX",
+        "cantidadProducto": 40
+    },
+    {
+        "nombreProducto": "Router WiFi 6",
+        "descripcionProducto": "Router de doble banda con alta velocidad",
+        "precioProducto": 129.99,
+        "empresaProducto": "TP-Link",
+        "cantidadProducto": 25
+    },
+    {
+        "nombreProducto": "Laptop UltraSlim Pro",
+        "descripcionProducto": "Laptop i7 con SSD 1TB y 32GB RAM",
+        "precioProducto": 1450.0,
+        "empresaProducto": "Dell",
+        "cantidadProducto": 8
+    },
+    {
+        "nombreProducto": "Cámara Deportiva 4K",
+        "descripcionProducto": "Cámara sumergible con grabación 4K y WiFi",
+        "precioProducto": 109.99,
+        "empresaProducto": "GoXtreme",
+        "cantidadProducto": 22
+    },
+    {
+        "nombreProducto": "Silla Ergonómica Pro",
+        "descripcionProducto": "Silla para oficina con soporte lumbar",
+        "precioProducto": 239.5,
+        "empresaProducto": "ErgoTech",
+        "cantidadProducto": 18
+    }
+
+
+]
