@@ -11,3 +11,6 @@ Para probarlo solo necesitan su token del API de telegram como de Gemini de la v
 ```bash
 git clone https://github.com/Jaime2305/AsistenteTiendaBotTelegram.git
 cd AsistenteTiendaBotTelegram
+```
+
+Este proyecto fue desarrollado con asistencia de ChatGPT (OpenAI) y hace uso directo de la API de Gemini 2.0 Flash (Google AI).
